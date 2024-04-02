@@ -1,0 +1,251 @@
+,name,position,general_position,skill,pot,etv
+0,Erling Haaland,F (CRL),Forward,93.2,100,135.9
+1,Bukayo Saka,"AM (RL), M (R)",Midfielder,88.3,97.5,105.2
+2,Phil Foden,"AM (RL), F (C)",Midfielder,89.5,99,103
+3,Declan Rice,DM (CRL),Midfielder,81.9,84.9,91.9
+4,Kai Havertz,"F (CR), AM (C)",Forward,83.7,85.5,91.1
+5,Rodri,DM (CRL),Midfielder,87.9,89.7,82.3
+6,Rúben Dias,D (C),Defender,86.3,89.6,80.1
+7,Moisés Caicedo,"DM (RL), M (C)",Midfielder,78.7,91.6,75.6
+8,Marcus Rashford,"AM (RL), F (C)",Midfielder,79.4,80.1,74.6
+9,Josko Gvardiol,D (CL),Defender,75.4,89,72
+10,Bernardo Silva,"M (C), DM (L)",Midfielder,91.8,91.8,70.4
+11,Martin Ødegaard,"M, AM (C)",Midfielder,87,90.4,70.3
+12,Dominik Szoboszlai,"AM (CR), M (R)",Midfielder,83,91.9,65
+13,Gabriel Martinelli,"AM (RL), F (C)",Midfielder,87.3,95.7,64.3
+14,Jarrod Bowen,"AM (CR), F (C)",Midfielder,76.1,77.6,62.8
+15,Rasmus Højlund,F (CRL),Forward,73.2,83.9,61.8
+16,Bryan Mbeumo,"F (RL), AM (R)",Forward,78.5,85.1,60.4
+17,Gabriel Jesus,"F (C), AM (RL)",Forward,90.9,93.9,60
+18,Raheem Sterling,"AM (RL), F (C)",Midfielder,81.6,81.6,59.6
+19,Mohamed Salah,"AM (R), F (CR)",Midfielder,86.9,86.9,58
+20,Ederson,GK,Goalkeeper,85.5,86.4,57.4
+21,Trent Alexander-Arnold,"D, AM (R), M (C)",Defender,84.9,90.2,55.3
+22,Sandro Tonali,"DM (RL), M (C)",Midfielder,77.5,85.5,54.2
+23,Mason Mount,AM (C),Midfielder,76.9,82.1,54
+24,Dejan Kulusevski,"AM (CR), F (R)",Midfielder,84.6,92.3,53.5
+25,Jérémy Doku,"AM (R), M (RL)",Midfielder,74,84.8,52.9
+26,William Saliba,D (C),Defender,84.2,92.7,52.5
+27,Enzo Fernández,"DM (RL), M (C)",Midfielder,73.1,82.4,51.8
+28,Darwin Núñez,"F (CL), AM (L)",Forward,77.8,80.4,51.8
+29,Bruno Guimarães,"DM (CL), M (C)",Midfielder,80.7,88,51
+30,Ollie Watkins,"F (CL), AM (L)",Forward,82.8,82.8,50
+31,Julián Álvarez,F (CRL),Forward,83.6,90.5,49.8
+32,Alisson,GK,Goalkeeper,83.1,83.1,49.3
+33,Christopher Nkunku,"F (CL), AM (C)",Forward,80.8,82.1,48.9
+34,Morgan Gibbs-White,"AM (CR), F (R)",Midfielder,70.5,77.2,48.7
+35,Douglas Luiz,DM (CRL),Midfielder,79.7,84.1,48.4
+36,Pau Torres,D (C),Defender,80.7,81,48.1
+37,Alexander Isak,"F (CR), AM (L)",Forward,73.5,79.3,47.5
+38,Luis Díaz,"AM (RL), M (L)",Midfielder,80.1,80.1,46.5
+39,Cody Gakpo,"AM, M (L), F (C)",Midfielder,82,86,46.1
+40,Manuel Akanji,D (CL),Defender,78.5,78.5,45.9
+41,Alexis Mac Allister,"DM (RL), AM (C)",Midfielder,83.2,86.9,45.3
+42,André Onana,GK,Goalkeeper,72.2,75.7,45.3
+43,Brennan Johnson,"F (CR), AM (R)",Forward,72.7,81.4,44.9
+44,Andrew Robertson,"D, M (L)",Defender,82,82,44.6
+45,Eberechi Eze,"M, AM (C)",Midfielder,70.1,73.8,44.3
+46,Matheus Nunes,"DM (L), M (C)",Midfielder,70.9,73.5,44.1
+47,Gabriel Magalhães,D (C),Defender,83,83.9,42
+48,Boubacar Kamara,DM (CRL),Midfielder,77.6,83.7,41.4
+49,Roméo Lavia,DM (CRL),Midfielder,63.6,79.3,41.3
+50,Jack Grealish,"AM, M (L), F (C)",Midfielder,84,84,41.1
+51,John McGinn,"M (CR), DM (R)",Midfielder,74.6,75.2,40.7
+52,Ben White,D (CR),Defender,84.1,84.7,40.7
+53,Reece James,"M (R), D (CR)",Midfielder,73.8,80.2,40.3
+54,Ryan Gravenberch,"M (C), DM (CL)",Midfielder,79.3,91.3,39.9
+55,James Maddison,"AM (CR), M (C)",Midfielder,78.8,79.9,39.8
+56,Anthony Gordon,AM (CRL),Midfielder,72.4,81.3,39.7
+57,John Stones,"D (CR), DM (R)",Defender,87.4,87.4,39.5
+58,Diogo Jota,"AM (RL), F (C)",Midfielder,86.2,86.2,39.3
+59,Conor Gallagher,"M, AM (C), DM (R)",Midfielder,76.5,82.7,39.3
+60,Lucas Paquetá,"AM, M (C)",Midfielder,78.2,79.7,38.6
+61,Richarlison,"F (CL), AM (C)",Forward,76.6,76.6,38.4
+62,Ezri Konsa,D (CR),Defender,79.9,83.5,38
+63,Edson Álvarez,"DM (CR), D (C)",Midfielder,73.3,74.9,38
+64,Marc Guéhi,D (C),Defender,77,88.6,37.5
+65,Timo Werner,F (CRL),Forward,79.6,79.6,37.5
+66,Dwight McNeil,"M (RL), AM (L)",Midfielder,73,83.1,37.4
+67,Michael Olise,"AM (CR), M (R)",Midfielder,71.1,81.5,37.2
+68,Mohammed Kudus,"F (C), AM (CR)",Forward,71,76.7,37
+69,Heung-min Son,"AM (CL), F (L)",Midfielder,80.8,80.8,36.7
+70,Ilya Zabarnyi,D (C),Defender,68.3,79.5,36.2
+71,Kevin De Bruyne,"M, AM (C)",Midfielder,83.6,83.6,36
+72,Jurrien Timber,D (CR),Defender,66.7,86.7,36
+73,Youri Tielemans,"DM (RL), M (C)",Midfielder,79,79.7,35.6
+74,Harvey Barnes,"AM (CL), M (L)",Midfielder,77.4,79.9,35.6
+75,Antony,"AM (R), M (RL)",Midfielder,75.3,82.5,34.9
+76,Jack Harrison,"AM (RL), M (L)",Midfielder,74.2,77.2,34.2
+77,Antonee Robinson,D (L),Defender,74.8,78,34.1
+78,Sven Botman,D (C),Defender,76.7,86,33.9
+79,Jordan Pickford,GK,Goalkeeper,74.8,74.8,33.8
+80,Diogo Dalot,"D (RL), M (R)",Defender,73.3,78,33.4
+81,Levi Colwill,"D (CL), M (L)",Defender,77.6,92.1,33.2
+82,Dominic Solanke,F (CRL),Forward,75.5,75.5,33.2
+83,Alejandro Garnacho,"AM (RL), M (L)",Midfielder,65.3,80.5,33.2
+84,Nicolas Jackson,F (CRL),Forward,72.1,80.5,32.3
+85,Cole Palmer,"AM (RL), M (C)",Midfielder,66.9,75.5,32.2
+86,Pedro Porro,"M, D (R)",Midfielder,72.9,79.4,32.1
+87,Vitaliy Mykolenko,"D (CL), M (L)",Defender,74.7,85.1,32.1
+88,Jacob Ramsey,"M (CL), AM (L)",Midfielder,74.3,85.8,32
+89,Pierre-Emile Højbjerg,"DM (RL), M (C)",Midfielder,77.4,77.4,31.8
+90,Evan Ferguson,F (CRL),Forward,67.8,86.5,31.6
+91,Marc Cucurella,"D (CL), M (L)",Defender,73.5,79.1,31.3
+92,Matty Cash,"D, M (R)",Defender,73.6,77.9,31.1
+93,Tomas Soucek,"DM (RL), M (C)",Midfielder,77.6,77.6,30.9
+94,Cristian Romero,D (C),Defender,75.5,79.1,30.8
+95,Pervis Estupiñán,"D (CL), M (L)",Defender,76.2,80.5,30.6
+96,Harvey Elliott,"M (CR), AM (R)",Midfielder,72.6,85.2,30.6
+97,Matheus Cunha,F (CRL),Forward,78,80.9,30.6
+98,James Ward-Prowse,"DM (RL), M (C)",Midfielder,71.1,71.1,30.3
+99,Aaron Ramsdale,GK,Goalkeeper,75.6,79.2,30.1
+100,Axel Disasi,D (CR),Defender,71.5,74.8,30.1
+101,Oleksandr Zinchenko,"D, DM (L), M (C)",Defender,83.6,83.6,30
+102,Emiliano Martínez,GK,Goalkeeper,79.6,79.6,29.8
+103,João Pedro,"AM (CL), F (C)",Midfielder,65.1,75.4,29.7
+104,Joachim Andersen,D (C),Defender,80.7,81.2,29.5
+105,Ibrahima Konaté,D (C),Defender,79.5,84.1,28.8
+106,Rico Lewis,"D (RL), DM (R)",Defender,66,81.2,28.3
+107,Justin Kluivert,"M (RL), AM (R)",Midfielder,75.5,79.5,27.4
+108,Emerson Royal,"M (R), D (CR)",Midfielder,77.1,82.7,27.2
+109,Casemiro,DM (CRL),Midfielder,77.6,78.2,27.1
+110,Benoît Badiashile,D (C),Defender,71.1,80.4,27.1
+111,Timothy Castagne,"D (RL), M (R)",Defender,75.6,78,27
+112,Rodrigo Bentancur,"DM (RL), M (C)",Midfielder,79,85.3,26.9
+113,Ibrahim Sangaré,DM (CRL),Midfielder,67.1,70.1,26.7
+114,Virgil van Dijk,D (C),Defender,80.5,80.5,26.5
+115,João Palhinha,DM (CRL),Midfielder,76.4,76.7,26.4
+116,Joe Gomez,D (CR),Defender,78.1,80,26.3
+117,Danilo,DM (CRL),Midfielder,71.7,81.2,26.2
+118,Miguel Almirón,"AM (R), M (RL)",Midfielder,76.9,76.9,26.2
+119,Alex Iwobi,"AM (R), M (C), DM (L)",Midfielder,71.2,71.2,26.1
+120,Aaron Hickey,"M (RL), D (R)",Midfielder,72.4,85.1,25.9
+121,Micky van de Ven,D (CL),Defender,70.2,80.6,25.9
+122,Max Kilman,D (C),Defender,75.8,76.4,25.8
+123,Kaoru Mitoma,"AM, M (L)",Midfielder,76.7,81.7,25.4
+124,Cheick Doucouré,DM (CRL),Midfielder,75.8,83.9,25.3
+125,Ben Chilwell,"M, D (L)",Midfielder,74.3,75,25.2
+126,Sean Longstaff,"M, DM (C)",Midfielder,77.4,81.6,24.8
+127,David Raya,GK,Goalkeeper,83.3,83.3,24.8
+128,Tyrick Mitchell,"D, M (L)",Defender,79.7,86.1,24.6
+129,Luke Shaw,"D (CL), M (L)",Defender,77.1,77.1,24.6
+130,Lisandro Martínez,"D, DM (C)",Defender,72.6,77.2,24.3
+131,Vitaly Janelt,"M, DM (C)",Midfielder,74.7,79.1,23.8
+132,Trevoh Chalobah,D (CR),Defender,70.2,75,23.7
+133,Robert Sánchez,GK,Goalkeeper,73.4,79.3,23.7
+134,Tyler Adams,DM (CRL),Midfielder,75.5,81.3,23.3
+135,Nathan Collins,"D (C), F (L)",Defender,68.7,77.1,23.1
+136,Joe Willock,"M (C), DM (L)",Midfielder,76.9,83.3,22.8
+137,Mykhaylo Mudryk,"AM (CL), M (L)",Midfielder,65.7,72.8,22.5
+138,Rico Henry,"M, D (L)",Midfielder,78.6,81.4,22
+139,James Tarkowski,D (C),Defender,71.2,71.2,21.8
+140,Tyrone Mings,D (C),Defender,79.6,80.5,21.6
+141,James Garner,DM (CRL),Midfielder,69.9,81,21.5
+142,Pedro Neto,AM (CL),Midfielder,69.4,75,21.5
+143,Wesley Fofana,D (C),Defender,72.6,82.8,21.1
+144,Giovanni Reyna,"AM (RL), M (L)",Midfielder,73.4,84.6,21.1
+145,Leandro Trossard,"AM, M (L), F (C)",Midfielder,75.2,75.2,21
+146,Anthony Elanga,"AM (RL), F (C)",Midfielder,66.5,75.7,20.8
+147,Kyle Walker,"D (CR), M (R)",Defender,82.5,83.1,20.6
+148,Nathan Aké,D (CL),Defender,79,79,20.6
+149,Destiny Udogie,"M, D, DM (L)",Midfielder,77.2,91.3,20.5
+150,Raphaël Varane,D (C),Defender,74.8,75,20.3
+151,Ansu Fati,"AM (RL), F (C)",Midfielder,73.4,84.6,20.1
+152,Ivan Toney,F (CRL),Forward,74.9,74.9,20
+153,Leon Bailey,"AM, F, M (R)",Midfielder,75.6,76.9,19.9
+154,Callum Hudson-Odoi,"AM (CL), M (R)",Midfielder,74.4,80.4,19.8
+155,Nick Pope,GK,Goalkeeper,80.4,80.4,19.7
+156,Joelinton,"M (C), AM (L)",Midfielder,75.8,77.3,19.3
+157,Dango Ouattara,"M (R), AM (RL)",Midfielder,62.8,76.6,19.2
+158,Hee-chan Hwang,"AM (CL), F (C)",Midfielder,71.2,71.2,19
+159,Oliver Skipp,"DM (RL), M (C)",Midfielder,73.5,81.8,18.9
+160,Amadou Onana,"DM (RL), M (C)",Midfielder,67.5,79.5,18.6
+161,Curtis Jones,"M (C), AM (L)",Midfielder,76.1,83.3,18.6
+162,Jarrad Branthwaite,D (C),Defender,70.4,81.6,18.5
+163,Armando Broja,F (CRL),Forward,66.5,72.9,18.3
+164,Malo Gusto,"D (CR), M (R)",Defender,70.4,83.5,18.1
+165,Facundo Buonanotte,"M (CR), AM (R)",Midfielder,60.7,79.4,18.1
+166,Lesley Ugochukwu,DM (CRL),Midfielder,60.7,76.9,17.9
+167,Kurt Zouma,D (C),Defender,77.1,77.1,17.9
+168,Mathias Jensen,"M, DM (C)",Midfielder,73.2,73.2,17.7
+169,Eddie Nketiah,"F (CL), AM (L)",Forward,72.4,76.9,17.7
+170,Marcus Tavernier,M (CRL),Midfielder,67.2,72.7,17.7
+171,Simon Adingra,"M, F, AM (L)",Midfielder,59.2,70.1,17.4
+172,Cameron Archer,F (CRL),Forward,64.2,76.1,17.1
+173,Aaron Wan-Bissaka,"D (RL), M (R)",Defender,77.3,81,17.1
+174,Noni Madueke,"AM (RL), M (R)",Midfielder,65,73.8,16.9
+175,Beto,F (CRL),Forward,67,69.6,16.8
+176,Harry Wilson,"AM (R), M (CR)",Midfielder,73.7,75.7,16.8
+177,Radu Drăgușin,D (CR),Defender,67.5,77.2,16.6
+178,Wataru Endo,"DM (CR), M (C)",Midfielder,71.1,71.1,16.6
+179,Lewis Dunk,D (C),Defender,75.3,75.3,16.6
+180,Jakub Kiwior,"D, DM (C)",Defender,65,71.1,16.6
+181,Tino Livramento,"D, M, AM (R)",Defender,64.4,75.6,16.6
+182,David Datro Fofana,F (CRL),Forward,62.7,73.6,16.5
+183,José Sá,GK,Goalkeeper,73.7,73.7,16.5
+184,Bart Verbruggen,GK,Goalkeeper,65,75.9,16.5
+185,Tyrell Malacia,"D (RL), M (L)",Defender,73.6,80,16.2
+186,Bernd Leno,GK,Goalkeeper,72.2,72.9,16.1
+187,Takehiro Tomiyasu,D (CRL),Defender,73.2,76.7,16
+188,Kalvin Phillips,DM (CRL),Midfielder,69.5,70.6,15.9
+189,Ethan Pinnock,D (C),Defender,72,72,15.8
+190,Emiliano Buendía,AM (CRL),Midfielder,74.1,74.8,15.8
+191,Milos Kerkez,D (RL),Defender,67,84,15.7
+192,Solly March,"AM (R), M (RL)",Midfielder,75.6,75.6,15.7
+193,Thomas Partey,"DM (CR), M (C)",Midfielder,76.8,78.5,15.5
+194,Dan Burn,D (CL),Defender,80,80,15.4
+195,Yoane Wissa,"AM (L), F (RL)",Midfielder,72,74.2,15.3
+196,Kieran Trippier,"D (RL), M (R)",Defender,75.6,78.1,15.2
+197,Pape Matar Sarr,"M (C), DM (RL)",Midfielder,61.2,72.3,15.1
+198,Scott McTominay,"DM (RL), M (C)",Midfielder,75,76.2,15.1
+199,Nicolás Domínguez,"DM (CL), M (C)",Midfielder,72.1,77.3,15.1
+200,Victor Lindelöf,D (C),Defender,74.3,74.4,14.8
+201,Guglielmo Vicario,GK,Goalkeeper,73.5,74.3,14.7
+202,Igor,D (CL),Defender,72.6,74.9,14.6
+203,Rayan Aït-Nouri,"M, D, AM (L)",Midfielder,72.2,80.3,14.6
+204,Nélson Semedo,"M (RL), D (R)",Midfielder,75.4,75.4,14.6
+205,Ryan Sessegnon,M (RL),Midfielder,73.9,86.2,14.5
+206,Alex Scott,"AM (C), DM (L), M (R)",Midfielder,61.5,77.4,14.5
+207,Odysseas Vlachodimos,GK,Goalkeeper,67.8,69,14.5
+208,Ryan Christie,"AM (RL), M (R)",Midfielder,73.1,73.1,14.5
+209,Calvin Bassey,"D (CL), M (L)",Defender,65.3,70.6,14.4
+210,João Gomes,"DM (RL), M (L)",Midfielder,59.4,73.4,14.4
+211,Konstantinos Mavropanos,"D (CR), F (L)",Defender,66.9,70.6,14.2
+212,Odsonne Edouard,"F (CL), AM (L)",Forward,71.4,75.2,14.2
+213,Nicolò Zaniolo,"AM (CR), F (R)",Midfielder,66.9,72,14.1
+214,Matheus França,"AM, F (C), M (R)",Midfielder,55.8,73.4,14
+215,Wilson Odobert,AM (CR),Midfielder,57.2,76.8,13.9
+216,Nayef Aguerd,D (C),Defender,70.3,73.6,13.7
+217,James Trafford,GK,Goalkeeper,58.5,73.2,13.6
+218,Gustavo Hamer,"DM (RL), M (C)",Midfielder,62.9,65.2,13.5
+219,Christian Eriksen,"DM (L), M (C)",Midfielder,71.3,72,13.5
+220,Lucas Digne,"D, M (L)",Defender,74,74,13.4
+221,Romain Faivre,"AM (CR), M (R)",Midfielder,67,71,13.1
+222,Issa Diop,D (C),Defender,71.4,72.8,13.1
+223,Aaron Ramsey,AM (CL),Midfielder,63.2,75.5,13
+224,Zeki Amdouni,"F (CL), AM (C)",Forward,56.2,64.3,13
+225,Pascal Groß,"DM, D (R), M (C)",Midfielder,76.2,76.2,12.9
+226,Jean-Ricner Bellegarde,"M, DM (C)",Midfielder,66.4,69.7,12.8
+227,Emile Smith Rowe,"AM (CL), M (C)",Midfielder,71.3,77.2,12.7
+228,Jacob Murphy,"AM (RL), M (R)",Midfielder,70.1,70.1,12.7
+229,Kristoffer Ajer,D (CR),Defender,68.5,75,12.6
+230,Yves Bissouma,DM (CRL),Midfielder,72.5,73.8,12.5
+231,Julio Enciso,"F (RL), AM (L)",Forward,67.8,83.1,12.5
+232,Sander Berge,"M (C), DM (RL)",Midfielder,66.2,70.7,12.4
+233,Andreas Pereira,"AM, M (C), DM (L)",Midfielder,69.3,70.6,12.2
+234,Clément Lenglet,D (CL),Defender,70.1,70.1,12.2
+235,Jacob Brown,"AM (R), F (RL)",Midfielder,63,66.8,12.1
+236,Maxwel Cornet,"M, AM (L), F (R)",Midfielder,68.3,69.2,12.1
+237,Fábio Vieira,"AM, M (C)",Midfielder,64.8,71.3,12.1
+238,Carlos Baleba,"DM (RL), AM (C)",Midfielder,61.7,74.5,12
+239,Manor Solomon,"AM (RL), M (L)",Midfielder,65.1,69.8,11.9
+240,Sofyan Amrabat,DM (CRL),Midfielder,70.7,71.9,11.8
+241,Mark Flekken,GK,Goalkeeper,70.9,71.9,11.8
+242,Philip Billing,"M, AM (C), DM (L)",Midfielder,68.6,70.3,11.7
+243,Djordje Petrovic,GK,Goalkeeper,63.5,67.3,11.7
+244,Marcos Senesi,D (C),Defender,68.9,70.5,11.5
+245,Santiago Bueno,D (C),Defender,69.2,73.8,11.2
+246,Enes Ünal,F (CRL),Forward,63.6,63.9,11.1
+247,Harrison Reed,DM (CRL),Midfielder,72.3,72.3,11.1
+248,Harry Maguire,D (C),Defender,73.2,73.2,11.1
+249,Jefferson Lerma,"DM (RL), M (C)",Midfielder,69.6,70.2,11
