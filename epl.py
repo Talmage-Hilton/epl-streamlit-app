@@ -7,15 +7,9 @@ st.title('English Premier League Players')
 st.caption("Welcome to a web app to explore information about the top 250 English Premier League players! You may interact with everything on the app. Look around, stay a while, and enjoy!")
 
 st.header("Description")
-st.caption("I am a huge fan of the EPL. I love soccer and staying up to date with the transfer talks throughout the season. This fascination has led me to wonder about how much certain players are worth for owners. A player's Estimated Transfer Value (ETV) is roughly how much a club would have to pay for a player if they were to purchase them in the transfer window. I web scraped this dataset in hopes of finding answers about ETV, as well as other variables, such as a player's skill level, potential, and position. With this dataset, and through this web app, I am hoping to find answers to the following EDA questions:")
-st.caption("    * Which position has the highest average skill level among players?")
-st.caption("    * What is the relationship between skill level and ETV among players?")
-st.caption("    * How does the ETV vary across different positions?")
+st.caption('This web app allows you to explore information about the top 250 English Premier League players! On the left sidebar, you can select a single player and see their stats. On the first tab labeled "Player vs. Player" you can compare two players to each others based on the stat you choose. Under the second tab labeled "Choose Your Own Adventure" you can choose any two variables to see how they are related. Finally, under the third tab labeled "Correlation Matrix" you can see the correlation between each of the numeric variables.')
+st.caption("For more information about this data, please check out my [GitHub Respository]('https://github.com/Talmage-Hilton/data-curation-project').")
 
-st.caption("Using this web app, I can find the answers to these questions, as well as more. Have your own fun and start finding answers to your own questions!")
-st.caption('    * Defenders, surprisingly enough, have the highest average skill level among players. You can find this by selecting General Position as the X variable and Skill Level as the Y variable under the "Choose Your Own Adventure" tab.')
-st.caption("    * Skill Level and ETV have a correlation coefficient of 0.66. This indicates a fairly strong, positive, linear relationship between Skill and ETV. You can find this answer for yourself by looking at the Correlation Matrix under the third tab.")
-st.caption('    * Forwards have the highest average ETV, followed by midfielders, defenders, and goalkeepers. You can find this by selecting General Position as the X variable and ETV as the Y variable under the "Choose Your Own Adventure" tab.')
 
 df = pd.read_csv('epl_players.csv')
 
