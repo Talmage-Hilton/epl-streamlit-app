@@ -4,10 +4,10 @@ import streamlit as st
 
 
 st.title('English Premier League Players')
-st.caption("Welcome to a web app to explore information about the top 250 English Premier League players! You may interact with everything on the app. Look around, stay a while, and enjoy!")
+st.subheader("Welcome to a web app to explore information about the top 250 English Premier League players! You may interact with everything on the app. Look around, stay a while, and enjoy!")
 
 st.header("Description")
-st.caption('This web app allows you to explore information about the top 250 English Premier League players! On the left sidebar, you can select a single player and see their stats. On the first tab labeled "Player vs. Player" you can compare two players to each others based on the stat you choose. Under the second tab labeled "Choose Your Own Adventure" you can choose any two variables to see how they are related. Finally, under the third tab labeled "Correlation Matrix" you can see the correlation between each of the numeric variables.')
+st.caption('On the left sidebar, you can select a single player and see their stats. On the first tab labeled "Player vs. Player" you can compare two players to each others based on the stat you choose. Under the second tab labeled "Choose Your Own Adventure" you can choose any two variables to see how they are related. Finally, under the third tab labeled "Correlation Matrix" you can see the correlation between each of the numeric variables.')
 st.caption("For more information about this data, please check out my [GitHub Respository]('https://github.com/Talmage-Hilton/data-curation-project'), as well as my [Data Science Blog]('https://talmage-hilton.github.io/Stat-386-Blog/').")
 
 
